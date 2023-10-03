@@ -72,6 +72,6 @@ namespace employee
 
  ```
  ## Output:
- ![output](const.png)
+![image](https://github.com/vignesh0011/Ex04-Constructor/assets/53014593/17e6eaf1-de24-4e15-a73c-62caecaab8ee)
  ## Result:
  Thus C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
